@@ -100,7 +100,7 @@ POST /api/chat
 
 ## 👤 Author
 
-Anchal Maurya
+Anchalll
 GitHub: [@anchalmaurya0206](https://github.com/anchalmaurya0206)
 
 ---
